@@ -1,0 +1,7 @@
+Download the IntelliJ or Eclipse. 
+
+
+
+Create a package and create your first lab exercises. 
+
+Task 2:  Prepare your Tell Me About Yourself script and attach in the comment section. 
