@@ -1,0 +1,13 @@
+Prepare the Below Questions Answer and post the same Answer in this post Comment Section.
+
+1) What is Source Code?
+
+2) What is Byte Code? 
+
+3) What is the native code?
+
+4) What is Java Compiler?
+
+5) What is JIT Compiler?
+
+6) Difference between Compiler and interpreter? 

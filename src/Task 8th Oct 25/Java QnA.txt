@@ -1,0 +1,11 @@
+Prepare the Below Questions Answer and post the same Answer in this post Comment Section.
+
+1) What is Git and GitHub?
+
+2) Difference Between Git and GitHub?
+
+3) explain the flow/Structure of the java Programs.
+
+4) Is it possible to execute Java program without having JDK in machine?
+
+5) Can I install multiple JDK or JRE  my machine?

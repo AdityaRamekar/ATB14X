@@ -1,0 +1,11 @@
+Prepare the Below Questions Answer and post the same Answer in this post Comment Section.
+
+1) what is statement in java?
+
+2) different between print and println?
+
+3) by default println use which data type to show the arithmetic result?
+
+4) what is The Difference between Keyword and identifiers? 
+
+5) How many Keyword are there in java?

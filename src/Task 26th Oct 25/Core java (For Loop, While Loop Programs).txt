@@ -1,0 +1,27 @@
+post your repo URL after you Finish The task.
+
+🔰 Beginner Level Programs
+
+For Loop
+
+1️⃣ Print numbers from 1 to 10
+
+2️⃣ Print even numbers from 1 to 20
+
+3️⃣ Print "Hello" 5 times
+
+4️⃣ Print the sum of first 10 natural numbers
+
+5️⃣ Print the multiplication table of 5
+
+While Loop
+
+1️⃣ Print numbers from 1 to 10
+
+2️⃣ Print even numbers from 1 to 20
+
+3️⃣ Print "Java" 5 times
+
+4️⃣ Calculate sum of first 10 natural numbers
+
+5️⃣ Print the multiplication table of 7

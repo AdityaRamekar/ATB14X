@@ -1,0 +1,14 @@
+Write a program to reverse a string without using inbuilt functions.
+
+
+
+Count the Number of Words in a String.
+
+
+
+First Letter of Each Word in a String.
+
+
+Arrays
+ I want you to find the second maximum number in this array
+int[] numbers = {12, 34, 10, 1, 100, 3, 4, 32};// O/P → 34 ,don’t use sorting function.

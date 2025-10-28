@@ -1,0 +1,13 @@
+Prepare the Below Questions Answer and post the same Answer in this post Comment Section.
+
+
+
+1) what is Keyword in java? 
+
+2) What is Identifiers in java? 
+
+3) where we can't use the keyword in a program? 
+
+4) what is the rule for the identifier?
+
+5) what is magic value in java?

@@ -1,0 +1,16 @@
+Check if the number is even or odd by using Ternary Operator.  (Notepad).
+
+
+
+ Interview - Zeta → (AT) Ter nested → Max between 3 numbers →  int n1 = 2; int n2 = 9;  int n3 = -11;
+
+
+
+Real_Age_Classification (  age → 59 ) →  Minor, Adult (Adult , Sr Senior) - Ternary Operator 
+
+
+
+
+
+
+https://www.programiz.com/java-programming/online-compiler/

@@ -1,0 +1,15 @@
+1) Write few programs in the Notepad and Run from Command Prompt, (this practice is required so you can identify that where is ; , () "" are missing, to find the error you have to practice this. 
+
+2) what is main method?
+
+3) can we have multiple main method?
+
+4) can we run a Program without a main method?
+
+5) difference between println vs printF vs print?
+
+6) what is the default value of local variable? 
+
+7) who provide the default value to the variable?
+
+8) value of the final variable can be change?
